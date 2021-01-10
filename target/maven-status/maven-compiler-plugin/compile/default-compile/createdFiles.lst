@@ -1,0 +1,4 @@
+springBootKakfaConsumer/Model/User.class
+springBootKakfaConsumer/Listener/KafkaConsumer.class
+springBootKakfaConsumer/SpringBootKafkaConsumerExampleApplication.class
+springBootKakfaConsumer/config/KafkaConfiguration.class
